@@ -1,0 +1,11 @@
+name: "Sara l"
+output_dir: "."
+navbar:
+  title: "Sara L"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Ensayo"
+      href: ensayo.html    
