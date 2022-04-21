@@ -1,5 +1,10 @@
 name: "Sara l"
 output_dir: "."
+html_document:
+  theme: darkly
+  highlight: tango
+  
+
 navbar:
   title: "Sara L"
   left:
@@ -9,3 +14,4 @@ navbar:
       href: about.html
     - text: "Ensayo"
       href: ensayo.html    
+      
